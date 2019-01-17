@@ -144,10 +144,10 @@ AttributeError: /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1: undefined symbol: EV
 
 参看前面第2步的 /etc/shadowsocks.json内容 ，填写内容
 
-![ss](images\ss1.jpg)
+![ss](images/ss1.jpg)
 
  
 
 #### 9. 在客户端 windows 上启用shodowsocks
 
-![ss](images\ss2.jpg)
+![ss](images/ss2.jpg)
