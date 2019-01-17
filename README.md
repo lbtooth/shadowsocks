@@ -1,1 +1,1 @@
-"# shadowsocks" 
+基于ubuntu的搭建shadowsocks实现科学上网
